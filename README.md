@@ -1,10 +1,11 @@
-# Hi there 👋 I'm Ankit Dhiman
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">🚀 Full Stack MERN Developer | UI/UX Enthusiast | Self Learner</h3>
+               👋 Hi, I'm Ankit Dhiman
 
-<p align="center">
-Building responsive web applications with modern technologies while continuously learning and improving every day.
-</p>
+       Full Stack MERN Developer • UI Developer
+           JavaScript Enthusiast • Self Learner
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
