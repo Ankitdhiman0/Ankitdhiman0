@@ -1,177 +1,163 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:0D1117,50:161B22,100:30363D&text=ANKIT%20DHIMAN&fontSize=42&fontColor=F0F6FC&fontAlignY=45&desc=FULL%20STACK%20DEVELOPER&descSize=13&descColor=8B949E&descAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:09090B,50:18181B,100:27272A&text=ANKIT%20DHIMAN&fontSize=48&fontColor=FAFAFA&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER&descSize=14&descColor=A1A1AA&descAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Building+things+that+solve+problems.;Turning+ideas+into+working+products.;Learning%2C+building%2C+refining." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=A1A1AA&center=true&vCenter=true&width=500&lines=React+%2F+Node.js+%2F+MongoDB;Building+Digital+Experiences;Code.+Create.+Refine." />
 
 <br/>
 
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github)](https://github.com/Ankitdhiman0)
+[![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram)](https://instagram.com/h_i_n_n_d_u)
+[![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x)](https://x.com/AnkitDhiman001)
 
 </div>
 
 ---
 
-## 01 / About
+### `01` / TECH STACK
 
-I'm Ankit, a developer from India focused on building modern web applications.
+<div align="center">
 
-I work primarily with the MERN stack, exploring both frontend engineering and backend development. I enjoy building complete products, experimenting with new technologies, and improving the way applications are designed and developed.
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,docker,linux,git,github,postman,figma,vite,photoshop&theme=dark&perline=9"/>
 
-My approach is simple: understand the problem, build a solution, refine it, and keep learning.
-
----
-
-## 02 / Selected Work
-
-### 01. NeuralPix
-**AI-powered image enhancement platform**
-
-An image enhancement application focused on processing and upscaling images through a React-based interface and a dedicated image-processing workflow.
-
-- Image upload and management
-- 2x and 4x image upscaling workflow
-- Cloudinary-based image storage
-- Cloudflare Workers for image processing
-- Backend processing and image status management
-- Responsive interface with GSAP animations
-
-`React` `Vite` `Tailwind CSS` `GSAP` `Node.js` `Express` `MongoDB` `Cloudflare Workers` `Cloudinary`
+</div>
 
 ---
 
-### 02. ShopEase
-**Full-stack e-commerce application**
+### `02` / FEATURED PROJECTS
 
-A MERN-based e-commerce application with authentication, product management, and shopping functionality.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- JWT authentication and cookie-based sessions
-- OTP email verification
-- Role-based access control
-- Shopping cart and wishlist
+**01. NeuralPix**
+
+`AI IMAGE ENHANCEMENT`
+
+Image enhancement & upscaling platform.
+
+- 2x / 4x upscaling
+- Cloudflare Workers
+- Cloudinary integration
+- Image processing workflow
+
+`React` `Node` `MongoDB` `Cloudflare`
+
+</td>
+<td width="50%" valign="top">
+
+**02. ShopEase**
+
+`E-COMMERCE`
+
+Full-stack shopping platform.
+
+- JWT authentication
+- OTP verification
+- Cart & wishlist
+- Role-based access
 - Product management
-- Cloudinary image uploads
-- REST API integration
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS` `Cloudinary`
+`React` `Express` `MongoDB` `Tailwind`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 03. Intellix
-**Authentication and account management**
+**03. Intellix**
 
-A study project focused on understanding and implementing secure authentication workflows.
+`AUTHENTICATION SYSTEM`
 
-- Short-lived access tokens
-- Refresh token handling
-- HTTP-only cookie authentication
-- OTP-based verification
-- Backend authentication flows
+Secure authentication workflow.
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Brevo`
+- Access & refresh tokens
+- HTTP-only cookies
+- Token management
+- Authentication flows
 
----
+`React` `Node` `Express` `MongoDB`
 
-### 04. Device Compare
-**Device comparison platform**
+</td>
+<td width="50%" valign="top">
 
-A web application for exploring and comparing smartphone and laptop specifications.
+**04. Device Compare**
+
+`DEVICE COMPARISON`
+
+Smartphone & laptop comparison platform.
 
 - Device search
-- Side-by-side comparison
-- Specification display
+- Specification comparison
 - Responsive interface
-- Full-stack application architecture
+- Full-stack architecture
 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+`React` `Node` `MongoDB` `Tailwind`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 03 / Technical Stack
+### `03` / TOOLS & TECHNOLOGIES
+
+| Category | Stack |
+|:--|:--|
+| Frontend | React, JavaScript, HTML, CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Database | MongoDB |
+| Styling | Tailwind CSS, Bootstrap |
+| Animation | GSAP, Three.js |
+| Infrastructure | Docker, Linux, Cloudflare |
+| Tools | Git, GitHub, Postman, Figma |
+
+---
+
+### `04` / CURRENTLY EXPLORING
+
+`Advanced React` · `Docker` · `System Design` · `GSAP` · `Three.js` · `Backend Architecture`
+
+---
+
+### `05` / GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,docker,linux,git,github,postman,figma,vite&theme=dark&perline=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankitdhiman0&show_icons=true&hide_border=true&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA&icon_color=A1A1AA"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitdhiman0&layout=compact&hide_border=true&bg_color=09090B&title_color=FAFAFA&text_color=A1A1AA"/>
+
+<br/>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitdhiman0&theme=transparent&hide_border=true&ring=A1A1AA&fire=FAFAFA&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A"/>
 
 </div>
 
-**Frontend**  
-HTML5 · CSS3 · JavaScript ES6+ · React · Tailwind CSS · Bootstrap
-
-**Backend & Database**  
-Node.js · Express.js · MongoDB · REST APIs · JWT Authentication
-
-**Tools & Infrastructure**  
-Git · GitHub · Docker · Linux · Postman · Cloudinary · Cloudflare Workers
-
-**Design & Motion**  
-Figma · Photoshop · GSAP · Three.js
-
 ---
 
-## 04 / Current Exploration
-
-```text
-Frontend
-  ├── Advanced React
-  ├── Performance Optimization
-  └── UI Engineering
-
-Backend
-  ├── API Architecture
-  ├── Authentication Systems
-  └── Scalable Applications
-
-Infrastructure
-  ├── Docker
-  ├── Linux
-  └── Deployment Workflows
-
-Creative Development
-  ├── GSAP
-  └── Three.js
-```
-
----
-
-## 05 / GitHub Statistics
+### `06` / CONTRIBUTIONS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ankitdhiman0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=8B949E&include_all_commits=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitdhiman0&bg_color=09090B&color=A1A1AA&line=71717A&point=FAFAFA&area=true&hide_border=true" width="100%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitdhiman0&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E" />
+<img src="https://raw.githubusercontent.com/Ankitdhiman0/Ankitdhiman0/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ankitdhiman0&style=flat-square&color=27272A&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitdhiman0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=C9D1D9&currStreakLabel=C9D1D9" />
+**BUILDING / LEARNING / SHIPPING**
 
-</div>
-
----
-
-## 06 / Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitdhiman0&bg_color=0D1117&color=8B949E&line=6E7681&point=C9D1D9&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## 07 / Connect
-
-I'm open to meaningful collaborations, interesting projects, and opportunities to grow as a developer.
-<div align="center">
-
-<br/>
-
-<sub>Build · Break · Debug · Improve</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:30363D,100:0D1117&section=footer" width="100%" />
+<sub>© Ankit Dhiman · 2026</sub>
 
 </div>
