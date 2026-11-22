@@ -166,11 +166,6 @@ Creative Development
 ## 07 / Connect
 
 I'm open to meaningful collaborations, interesting projects, and opportunities to grow as a developer.
-
-- GitHub: [@Ankitdhiman0](https://github.com/Ankitdhiman0)
-- Instagram: [@h_i_n_n_d_u](https://instagram.com/h_i_n_n_d_u)
-- X: [@AnkitDhiman001](https://x.com/AnkitDhiman001)
-
 <div align="center">
 
 <br/>
