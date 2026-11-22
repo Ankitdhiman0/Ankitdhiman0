@@ -8,9 +8,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Ankitdhiman0)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/h_i_n_n_d_u)
-[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=white)](https://x.com/AnkitDhiman001)
+
+
 
 </div>
 
